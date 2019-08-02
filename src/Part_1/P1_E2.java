@@ -16,6 +16,18 @@ public class P1_E2 {
         byte c;
         for (c=0; c<5;c++){
             System.out.println("C Равно " + c);
+
+            /* Результат
+
+         a<b
+
+        C Равно 0
+        C Равно 1
+        C Равно 2
+        C Равно 3
+        C Равно 4
+
+         */
         }
     }
 }
